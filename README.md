@@ -4,14 +4,18 @@
 
 ### WARNING: this repo only contains the first few entries in glove.6B.50d.txt!
 
-### To compile: run `rustc main.rs`
+### To compile: 
 
-### To run: run `./main <glove_vectors_filename.txt> word1 word2 word3 ...`
+##### run `rustc main.rs`
+
+### To run:
+
+##### run `./main <glove_vectors_filename.txt> word1 word2 word3 ...`
 
 ### Example:
 
-### `./main glove.6B.50d.txt grimace shake`
-### `Loading GloVe vectors...`
-### `Nearest neighbor: shaking (similarity: 0.7648)`
+##### `./main glove.6B.50d.txt grimace shake`
+##### `Loading GloVe vectors...`
+##### `Nearest neighbor: shaking (similarity: 0.7648)`
 
 
