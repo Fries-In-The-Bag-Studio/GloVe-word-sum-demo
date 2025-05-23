@@ -6,12 +6,12 @@
 
 ### To compile: run `rustc main.rs`
 
-### To run: run ./main <glove_vectors_filename.txt> word1 word2 word3 ...
+### To run: run `./main <glove_vectors_filename.txt> word1 word2 word3 ...`
 
 ### Example:
 
 ### `./main glove.6B.50d.txt grimace shake`
-`Loading GloVe vectors...`
-`Nearest neighbor: shaking (similarity: 0.7648)`
+### `Loading GloVe vectors...`
+### `Nearest neighbor: shaking (similarity: 0.7648)`
 
 
